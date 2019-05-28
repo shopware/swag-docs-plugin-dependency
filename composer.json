@@ -16,12 +16,12 @@
     "extra": {
         "shopware-plugin-class": "Swag\\PluginDependency\\PluginDependency",
         "label": {
-            "de-DE": "Plugin mit Plugin-Abhängigkeiten",
-            "en-GB": "Plugin with plugin dependencies"
+            "de-DE": "Label für das Plugin PluginDependency",
+            "en-GB": "Label for the plugin PluginDependency"
         },
         "description": {
-            "de-DE": "Plugin mit Plugin-Abhängigkeiten",
-            "en-GB": "Plugin with plugin dependencies"
+            "de-DE": "Beschreibung für das Plugin PluginDependency",
+            "en-GB": "Description for the plugin PluginDependency"
         }
     },
     "autoload": {
